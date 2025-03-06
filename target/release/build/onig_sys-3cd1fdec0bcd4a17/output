@@ -1,0 +1,159 @@
+cargo:rerun-if-env-changed=RUSTONIG_DYNAMIC_LIBONIG
+cargo:rerun-if-env-changed=RUSTONIG_STATIC_LIBONIG
+cargo:rerun-if-env-changed=RUSTONIG_SYSTEM_LIBONIG
+OUT_DIR = Some(C:\Users\PierreGancel\Documents\GitHub\candle\marian_candle\target\release\build\onig_sys-3cd1fdec0bcd4a17\out)
+OPT_LEVEL = Some(3)
+TARGET = Some(x86_64-pc-windows-msvc)
+cargo:rerun-if-env-changed=VCINSTALLDIR
+VCINSTALLDIR = None
+cargo:rerun-if-env-changed=VSTEL_MSBuildProjectFullPath
+VSTEL_MSBuildProjectFullPath = None
+cargo:rerun-if-env-changed=VSCMD_ARG_VCVARS_SPECTRE
+VSCMD_ARG_VCVARS_SPECTRE = None
+cargo:rerun-if-env-changed=WindowsSdkDir
+WindowsSdkDir = None
+cargo:rerun-if-env-changed=WindowsSDKVersion
+WindowsSDKVersion = None
+cargo:rerun-if-env-changed=LIB
+LIB = None
+PATH = Some(C:\Users\PierreGancel\Documents\GitHub\candle\marian_candle\target\release\deps;C:\Users\PierreGancel\Documents\GitHub\candle\marian_candle\target\release;C:\Users\PierreGancel\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\x86_64-pc-windows-msvc\lib;C:\Ruby33-x64\bin;C:\Users\PierreGancel\flutter\bin\cache\dart-sdk\bin;C:\Users\PierreGancel\flutter\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files\nodejs\;C:\Program Files (x86)\Yarn\bin\;;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;%SYSTEMROOT%\System32\OpenSSH\;C:\Users\PierreGancel\.cargo\bin;C:\Users\PierreGancel\flutter\bin\cache\dart-sdk\bin;C:\Users\PierreGancel\flutter\bin;C:\Users\PierreGancel\AppData\Local\Microsoft\WindowsApps;C:\Users\PierreGancel\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\PierreGancel\AppData\Local\GitHubDesktop\bin;C:\Users\PierreGancel\AppData\Local\Pub\Cache\bin;C:\Users\PierreGancel\AppData\Local\Programs\mongosh\;C:\Users\PierreGancel\AppData\Local\Microsoft\WinGet\Links;C:\Users\PierreGancel\AppData\Local\Pub\Cache\bin;C:\Users\PierreGancel\AppData\Roaming\npm;C:\Users\PierreGancel\AppData\Local\Yarn\bin;)
+cargo:rerun-if-env-changed=INCLUDE
+INCLUDE = None
+HOST = Some(x86_64-pc-windows-msvc)
+cargo:rerun-if-env-changed=CC_x86_64-pc-windows-msvc
+CC_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CC_x86_64_pc_windows_msvc
+CC_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_CC
+HOST_CC = None
+cargo:rerun-if-env-changed=CC
+CC = None
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some(adx,aes,avx,avx2,bmi1,bmi2,cmpxchg16b,f16c,fma,fxsr,lzcnt,movbe,pclmulqdq,popcnt,rdrand,rdseed,sha,sse,sse2,sse3,sse4.1,sse4.2,ssse3,xsave,xsavec,xsaveopt,xsaves)
+DEBUG = Some(false)
+cargo:rerun-if-env-changed=CFLAGS_x86_64-pc-windows-msvc
+CFLAGS_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64_pc_windows_msvc
+CFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_CFLAGS
+HOST_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+CARGO_ENCODED_RUSTFLAGS = Some(-Ctarget-cpu=native)
+cargo:rerun-if-env-changed=CC_ENABLE_DEBUG_OUTPUT
+regexec.c
+regerror.c
+regparse.c
+regext.c
+regcomp.c
+reggnu.c
+regenc.c
+regsyntax.c
+regtrav.c
+regversion.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+st.c
+onig_init.c
+unicode.c
+ascii.c
+utf8.c
+utf16_be.c
+utf16_le.c
+utf32_be.c
+utf32_le.c
+euc_jp.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+sjis.c
+iso8859_1.c
+iso8859_2.c
+iso8859_3.c
+iso8859_4.c
+iso8859_5.c
+iso8859_6.c
+iso8859_7.c
+iso8859_8.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+iso8859_9.c
+iso8859_10.c
+iso8859_11.c
+iso8859_13.c
+iso8859_14.c
+iso8859_15.c
+iso8859_16.c
+euc_tw.c
+euc_kr.c
+big5.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+gb18030.c
+koi8_r.c
+cp1251.c
+euc_jp_prop.c
+sjis_prop.c
+unicode_unfold_key.c
+unicode_fold1_key.c
+unicode_fold2_key.c
+unicode_fold3_key.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+cargo:rerun-if-env-changed=AR_x86_64-pc-windows-msvc
+AR_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=AR_x86_64_pc_windows_msvc
+AR_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_AR
+HOST_AR = None
+cargo:rerun-if-env-changed=AR
+AR = None
+cargo:rerun-if-env-changed=ARFLAGS_x86_64-pc-windows-msvc
+ARFLAGS_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=ARFLAGS_x86_64_pc_windows_msvc
+ARFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_ARFLAGS
+HOST_ARFLAGS = None
+cargo:rerun-if-env-changed=ARFLAGS
+ARFLAGS = None
+cargo:rustc-link-search=native=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\atlmfc\lib\x64
+cargo:rustc-link-lib=static=onig
+cargo:rustc-link-search=native=C:\Users\PierreGancel\Documents\GitHub\candle\marian_candle\target\release\build\onig_sys-3cd1fdec0bcd4a17\out

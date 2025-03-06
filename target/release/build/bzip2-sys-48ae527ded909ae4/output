@@ -1,0 +1,89 @@
+OPT_LEVEL = Some(3)
+TARGET = Some(x86_64-pc-windows-msvc)
+cargo:rerun-if-env-changed=VCINSTALLDIR
+VCINSTALLDIR = None
+cargo:rerun-if-env-changed=VSTEL_MSBuildProjectFullPath
+VSTEL_MSBuildProjectFullPath = None
+cargo:rerun-if-env-changed=VSCMD_ARG_VCVARS_SPECTRE
+VSCMD_ARG_VCVARS_SPECTRE = None
+cargo:rerun-if-env-changed=WindowsSdkDir
+WindowsSdkDir = None
+cargo:rerun-if-env-changed=WindowsSDKVersion
+WindowsSDKVersion = None
+cargo:rerun-if-env-changed=LIB
+LIB = None
+PATH = Some(C:\Users\PierreGancel\Documents\GitHub\candle\marian_candle\target\release\deps;C:\Users\PierreGancel\Documents\GitHub\candle\marian_candle\target\release;C:\Users\PierreGancel\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\x86_64-pc-windows-msvc\lib;C:\Ruby33-x64\bin;C:\Users\PierreGancel\flutter\bin\cache\dart-sdk\bin;C:\Users\PierreGancel\flutter\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files\nodejs\;C:\Program Files (x86)\Yarn\bin\;;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;%SYSTEMROOT%\System32\OpenSSH\;C:\Users\PierreGancel\.cargo\bin;C:\Users\PierreGancel\flutter\bin\cache\dart-sdk\bin;C:\Users\PierreGancel\flutter\bin;C:\Users\PierreGancel\AppData\Local\Microsoft\WindowsApps;C:\Users\PierreGancel\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\PierreGancel\AppData\Local\GitHubDesktop\bin;C:\Users\PierreGancel\AppData\Local\Pub\Cache\bin;C:\Users\PierreGancel\AppData\Local\Programs\mongosh\;C:\Users\PierreGancel\AppData\Local\Microsoft\WinGet\Links;C:\Users\PierreGancel\AppData\Local\Pub\Cache\bin;C:\Users\PierreGancel\AppData\Roaming\npm;C:\Users\PierreGancel\AppData\Local\Yarn\bin;)
+cargo:rerun-if-env-changed=INCLUDE
+INCLUDE = None
+HOST = Some(x86_64-pc-windows-msvc)
+cargo:rerun-if-env-changed=CC_x86_64-pc-windows-msvc
+CC_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CC_x86_64_pc_windows_msvc
+CC_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_CC
+HOST_CC = None
+cargo:rerun-if-env-changed=CC
+CC = None
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some(adx,aes,avx,avx2,bmi1,bmi2,cmpxchg16b,f16c,fma,fxsr,lzcnt,movbe,pclmulqdq,popcnt,rdrand,rdseed,sha,sse,sse2,sse3,sse4.1,sse4.2,ssse3,xsave,xsavec,xsaveopt,xsaves)
+DEBUG = Some(false)
+cargo:rerun-if-env-changed=CFLAGS_x86_64-pc-windows-msvc
+CFLAGS_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64_pc_windows_msvc
+CFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_CFLAGS
+HOST_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+CARGO_ENCODED_RUSTFLAGS = Some(-Ctarget-cpu=native)
+cargo:rerun-if-env-changed=CC_ENABLE_DEBUG_OUTPUT
+blocksort.c
+C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.12+1.0.8\bzip2-1.0.8\bzlib.h(70): warning C4005: 'BZ_EXPORT': macro redefinition
+C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.12+1.0.8\bzip2-1.0.8\bzlib.h(70): note: 'BZ_EXPORT' previously declared on the command line
+huffman.c
+C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.12+1.0.8\bzip2-1.0.8\bzlib.h(70): warning C4005: 'BZ_EXPORT': macro redefinition
+C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.12+1.0.8\bzip2-1.0.8\bzlib.h(70): note: 'BZ_EXPORT' previously declared on the command line
+crctable.c
+C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.12+1.0.8\bzip2-1.0.8\bzlib.h(70): warning C4005: 'BZ_EXPORT': macro redefinition
+C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.12+1.0.8\bzip2-1.0.8\bzlib.h(70): note: 'BZ_EXPORT' previously declared on the command line
+randtable.c
+C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.12+1.0.8\bzip2-1.0.8\bzlib.h(70): warning C4005: 'BZ_EXPORT': macro redefinition
+C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.12+1.0.8\bzip2-1.0.8\bzlib.h(70): note: 'BZ_EXPORT' previously declared on the command line
+compress.c
+C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.12+1.0.8\bzip2-1.0.8\bzlib.h(70): warning C4005: 'BZ_EXPORT': macro redefinition
+C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.12+1.0.8\bzip2-1.0.8\bzlib.h(70): note: 'BZ_EXPORT' previously declared on the command line
+decompress.c
+C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.12+1.0.8\bzip2-1.0.8\bzlib.h(70): warning C4005: 'BZ_EXPORT': macro redefinition
+C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.12+1.0.8\bzip2-1.0.8\bzlib.h(70): note: 'BZ_EXPORT' previously declared on the command line
+bzlib.c
+C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.12+1.0.8\bzip2-1.0.8\bzlib.h(70): warning C4005: 'BZ_EXPORT': macro redefinition
+C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.12+1.0.8\bzip2-1.0.8\bzlib.h(70): note: 'BZ_EXPORT' previously declared on the command line
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+cargo:rerun-if-env-changed=AR_x86_64-pc-windows-msvc
+AR_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=AR_x86_64_pc_windows_msvc
+AR_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_AR
+HOST_AR = None
+cargo:rerun-if-env-changed=AR
+AR = None
+cargo:rerun-if-env-changed=ARFLAGS_x86_64-pc-windows-msvc
+ARFLAGS_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=ARFLAGS_x86_64_pc_windows_msvc
+ARFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_ARFLAGS
+HOST_ARFLAGS = None
+cargo:rerun-if-env-changed=ARFLAGS
+ARFLAGS = None
+cargo:rustc-link-search=native=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\atlmfc\lib\x64
+cargo:rustc-link-lib=static=bz2
+cargo:rustc-link-search=native=C:\Users\PierreGancel\Documents\GitHub\candle\marian_candle\target\release\build\bzip2-sys-48ae527ded909ae4\out\lib
+cargo:root=C:\Users\PierreGancel\Documents\GitHub\candle\marian_candle\target\release\build\bzip2-sys-48ae527ded909ae4\out
+cargo:include=C:\Users\PierreGancel\Documents\GitHub\candle\marian_candle\target\release\build\bzip2-sys-48ae527ded909ae4\out\include

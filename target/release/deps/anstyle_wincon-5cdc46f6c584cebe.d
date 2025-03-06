@@ -1,0 +1,10 @@
+C:\Users\PierreGancel\Documents\GitHub\candle\marian_candle\target\release\deps\libanstyle_wincon-5cdc46f6c584cebe.rmeta: C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src/lib.rs C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\ansi.rs C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\stream.rs C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\windows.rs
+
+C:\Users\PierreGancel\Documents\GitHub\candle\marian_candle\target\release\deps\libanstyle_wincon-5cdc46f6c584cebe.rlib: C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src/lib.rs C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\ansi.rs C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\stream.rs C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\windows.rs
+
+C:\Users\PierreGancel\Documents\GitHub\candle\marian_candle\target\release\deps\anstyle_wincon-5cdc46f6c584cebe.d: C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src/lib.rs C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\ansi.rs C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\stream.rs C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\windows.rs
+
+C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src/lib.rs:
+C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\ansi.rs:
+C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\stream.rs:
+C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\windows.rs:

@@ -1,0 +1,10 @@
+C:\Users\PierreGancel\Documents\GitHub\candle\marian_candle\target\release\deps\libthiserror-ad2db99aaa3015d8.rmeta: C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-2.0.11\src/lib.rs C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-2.0.11\src\aserror.rs C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-2.0.11\src\display.rs C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-2.0.11\src\var.rs
+
+C:\Users\PierreGancel\Documents\GitHub\candle\marian_candle\target\release\deps\libthiserror-ad2db99aaa3015d8.rlib: C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-2.0.11\src/lib.rs C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-2.0.11\src\aserror.rs C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-2.0.11\src\display.rs C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-2.0.11\src\var.rs
+
+C:\Users\PierreGancel\Documents\GitHub\candle\marian_candle\target\release\deps\thiserror-ad2db99aaa3015d8.d: C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-2.0.11\src/lib.rs C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-2.0.11\src\aserror.rs C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-2.0.11\src\display.rs C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-2.0.11\src\var.rs
+
+C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-2.0.11\src/lib.rs:
+C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-2.0.11\src\aserror.rs:
+C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-2.0.11\src\display.rs:
+C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-2.0.11\src\var.rs:

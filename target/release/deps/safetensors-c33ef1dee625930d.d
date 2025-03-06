@@ -1,0 +1,10 @@
+C:\Users\PierreGancel\Documents\GitHub\candle\marian_candle\target\release\deps\libsafetensors-c33ef1dee625930d.rmeta: C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\safetensors-0.4.5\src/lib.rs C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\safetensors-0.4.5\src\slice.rs C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\safetensors-0.4.5\src\tensor.rs C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\safetensors-0.4.5\src\../README.md
+
+C:\Users\PierreGancel\Documents\GitHub\candle\marian_candle\target\release\deps\libsafetensors-c33ef1dee625930d.rlib: C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\safetensors-0.4.5\src/lib.rs C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\safetensors-0.4.5\src\slice.rs C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\safetensors-0.4.5\src\tensor.rs C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\safetensors-0.4.5\src\../README.md
+
+C:\Users\PierreGancel\Documents\GitHub\candle\marian_candle\target\release\deps\safetensors-c33ef1dee625930d.d: C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\safetensors-0.4.5\src/lib.rs C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\safetensors-0.4.5\src\slice.rs C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\safetensors-0.4.5\src\tensor.rs C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\safetensors-0.4.5\src\../README.md
+
+C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\safetensors-0.4.5\src/lib.rs:
+C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\safetensors-0.4.5\src\slice.rs:
+C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\safetensors-0.4.5\src\tensor.rs:
+C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\safetensors-0.4.5\src\../README.md:

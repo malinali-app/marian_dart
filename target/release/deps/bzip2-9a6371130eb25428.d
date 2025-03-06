@@ -1,0 +1,11 @@
+C:\Users\PierreGancel\Documents\GitHub\candle\marian_candle\target\release\deps\libbzip2-9a6371130eb25428.rmeta: C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-0.4.4\src\lib.rs C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-0.4.4\src\mem.rs C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-0.4.4\src\bufread.rs C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-0.4.4\src\read.rs C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-0.4.4\src\write.rs
+
+C:\Users\PierreGancel\Documents\GitHub\candle\marian_candle\target\release\deps\libbzip2-9a6371130eb25428.rlib: C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-0.4.4\src\lib.rs C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-0.4.4\src\mem.rs C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-0.4.4\src\bufread.rs C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-0.4.4\src\read.rs C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-0.4.4\src\write.rs
+
+C:\Users\PierreGancel\Documents\GitHub\candle\marian_candle\target\release\deps\bzip2-9a6371130eb25428.d: C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-0.4.4\src\lib.rs C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-0.4.4\src\mem.rs C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-0.4.4\src\bufread.rs C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-0.4.4\src\read.rs C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-0.4.4\src\write.rs
+
+C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-0.4.4\src\lib.rs:
+C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-0.4.4\src\mem.rs:
+C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-0.4.4\src\bufread.rs:
+C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-0.4.4\src\read.rs:
+C:\Users\PierreGancel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-0.4.4\src\write.rs:
